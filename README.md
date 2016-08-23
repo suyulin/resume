@@ -18,6 +18,7 @@
 
 **github**：https://github.com/suyulin
 
+---
 ## 自我简介
 曾经在硬件创业团队寻找硬件解决方案，原型设计和检验原型可用性。
 现在在创业团队担任前端工程师。 有SAP和H5开发经验(负责网站的前端架构的搭建)。
@@ -28,15 +29,45 @@
 ## 技术能力
 
 * 专注前端开发，可以用JavaScript、CSS、HTML搭建一个Web应用。
-* 可以使用react开发程序，了解react相关工具以及框架和类库的使用(react|redux|react-router|webpack)。
+* 熟练使用react开发WebApp程序，精通react相关工具以及框架和类库的使用(react|redux|react-router|webpack)。
+* 对react 和 Redux有深入了解。
 * 了解NodeJS。
 
-## 个人经历
-* 2012年毕业后自学C#转入IT行业。
-* 2013年在内蒙古为期一年的aps.net开发。
-* 2014年来到深圳开始加入创业公司。
-* 2014~2016 Web前端工程师。
+---
+## 工作经历
 
+## 平安科技 （ 2016.08 — 至今 ）
+
+### ERP项目 
+负责公司内部REP系统的React重构工作
+
+## 客米网络 （ 2015.05 — 2016.07 ）
+
+### hommily.com 
+负责公司网站前端架构搭建
+研究Web前沿技术和网站性能优化
+任职期间，我的前端技术有了很大的提高,了解个WepApp从0到1的开发过程。
+使用react重构网站的过程中，对react有了深入的了解，使我对web前端有了更进一步的了解。
+
+## 深圳美丞科技 （ 2014.03 — 2015.04 ）
+
+### 公司网站项目 
+负责网站前端开发，外包H5项目，硬件产品原型开发
+熟练掌握DHTML、CSS、AJAX、JAVASCRIPT等WEB页面设计与编程，熟练掌握XML。
+熟悉JQuery，AngularJS, Bootstra。
+熟练掌握Html5、JavaScript和CSS相关技术。
+熟悉Egret,CreateJS游戏引擎。
+熟悉C++,C,C#。
+熟练使用Asp.net 开发网站。
+熟悉nodejs,熟悉各类NPM开源库,Mongodb。
+
+## 内蒙古巨信网络公司 （ 2013.03 — 2014.01 ）
+
+### 企业网站项目 
+负责企业站的开发，使用Asp.net开发网站后台。
+任职期间实现了从新人到IT入门的转变。
+
+---
 ## 作品
 
 ### [hommily-editor](https://github.com/suyulin/Hommily-Editor)
