@@ -14,6 +14,8 @@
 
 **学校专业**： 内蒙古工业大学自动化
 
+**Phone**：18647382389
+
 **Email**：suyulingxm@163.com
 
 **github**：https://github.com/suyulin
