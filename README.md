@@ -102,11 +102,5 @@ react 富文本编辑器，公司项目。
 
 基于reactjs,redux,css Module构建的一个单页面应用(部分页面)，使得前端开发组件化，提高了代码重用性。
 
-#### [哈觅微信](https://www.hommily.com.cn/wechatHm/activity/list)
-项目网站: https://www.hommily.com.cn/wechatHm/activity/list
-
-哈觅微信H5。
-
-本人完成了此项目的前端开发。
 
 
