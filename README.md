@@ -42,9 +42,9 @@
 
 ### HomeKit插件
 
-负责 Apple HomeKit 插件开发(nodejs 实现)
-云服务的TCP并发测试(go 语言)
-开放平台前端开发
+负责 Apple HomeKit 插件开发(nodejs 实现)  
+云服务的TCP并发测试(go 语言)  
+开放平台前端开发  
 
 ## 平安科技 （ 2016.08 — 2016.11 ）
 
@@ -56,29 +56,30 @@
 
 ### hommily.com 
 
-负责公司网站前端架构搭建。 
-研究Web前沿技术和网站性能优化。 
-任职期间，我的前端技术有了很大的提高,了解个WepApp从0到1的开发过程。 
-使用react重构网站的过程中，对react有了深入的了解，使我对web前端有了更进一步的了解。 
+负责公司网站前端架构搭建。  
+研究Web前沿技术和网站性能优化。   
+任职期间，我的前端技术有了很大的提高,了解个WepApp从0到1的开发过程。   
+使用react重构网站的过程中，对react有了深入的了解，使我对web前端有了更进一步的了解。   
 
 ## 深圳美丞科技 （ 2014.03 — 2015.04 ）
 
 ### 公司网站项目 
 
-负责网站前端开发，外包H5项目，硬件产品原型开发。 
-熟练掌握DHTML、CSS、AJAX、JAVASCRIPT等WEB页面设计与编程，熟练掌握XML。 
-熟悉JQuery，AngularJS, Bootstra。 
-熟练掌握Html5、JavaScript和CSS相关技术。 
-熟悉Egret,CreateJS游戏引擎。 
-熟悉C++,C,C#。 
-熟练使用Asp.net 开发网站。 
-熟悉nodejs,熟悉各类NPM开源库,Mongodb。 
+负责网站前端开发，外包H5项目，硬件产品原型开发。     
+熟练掌握DHTML、CSS、AJAX、JAVASCRIPT等WEB页面设计与编程，熟练掌握XML。     
+熟悉JQuery，AngularJS, Bootstra。     
+熟练掌握Html5、JavaScript和CSS相关技术。    
+熟悉Egret,CreateJS游戏引擎。    
+熟悉C++,C,C#。     
+熟练使用Asp.net 开发网站。     
+熟悉nodejs,熟悉各类NPM开源库,Mongodb。    
 
 ## 内蒙古巨信网络公司 （ 2013.03 — 2014.01 ）
 
 ### 企业网站项目 
-负责企业站的开发，使用Asp.net开发网站后台。
-任职期间实现了从新人到IT入门的转变。
+
+负责企业站的开发，使用Asp.net开发网站后台。   
+任职期间实现了从新人到IT入门的转变。   
 
 ---
 ## 作品
