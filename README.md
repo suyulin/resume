@@ -33,12 +33,20 @@
 * 专注前端开发，可以用JavaScript、CSS、HTML搭建一个Web应用。
 * 熟练使用react开发WebApp程序，精通react相关工具以及框架和类库的使用(react|redux|react-router|webpack)。
 * 对react 和 Redux有深入了解。
-* 了解NodeJS。
+* 熟悉NodeJS,GraphQL 和 go语言。
 
 ---
 ## 工作经历
 
-## 平安科技 （ 2016.08 — 至今 ）
+## 深圳市欧瑞博 （ 2016.11 — 至今 ）
+
+### HomeKit插件
+
+负责 Apple HomeKit 插件开发(nodejs 实现)
+云服务的TCP并发测试(go 语言)
+开放平台前端开发
+
+## 平安科技 （ 2016.08 — 2016.11 ）
 
 ### ERP项目 
 负责公司内部REP系统的React重构工作
@@ -71,6 +79,9 @@
 
 ---
 ## 作品
+
+### [webpack-react-config](https://github.com/suyulin/webpack-react-config)
+个关于webpack打包react的配置文件。使用现在有的webpack插件和第三方的lib 实现快速打包。
 
 ### [hommily-editor](https://github.com/suyulin/Hommily-Editor)
 react 富文本编辑器，公司项目。
