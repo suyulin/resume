@@ -89,9 +89,9 @@ react 富文本编辑器，公司项目。
 ### [智能设备运营管理平台](https://stomp.orvibo.com/)
 项目地址: https://stomp.orvibo.com/
 
-公司内部设备升级管理平台。
-使用react,antd,redux开发。
-本人完成所有前端工作。
+公司内部设备升级管理平台。    
+使用react,antd,redux开发。     
+本人完成所有前端工作。     
 
 
 
