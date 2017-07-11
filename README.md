@@ -25,7 +25,7 @@
 
 曾经在硬件创业团队寻找硬件解决方案，原型设计和检验原型可用性。  
 现在在创业团队担任前端工程师。 有SPA和H5开发经验(负责网站的前端架构的搭建)。  
-1年后端和2年Web前端开发经验，熟练掌握Web前后端技术，能独立开发前端完成一个Web Application。  
+1年后端和3年Web前端开发经验，熟练掌握Web前后端技术，能独立开发前端完成一个Web Application。  
 拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 
 ## 技术能力
@@ -33,7 +33,8 @@
 * 专注前端开发，可以用JavaScript、CSS、HTML搭建一个Web应用。
 * 熟练使用react开发WebApp程序，精通react相关工具以及框架和类库的使用(react|redux|react-router|webpack)。
 * 对react 和 Redux有深入了解。
-* 熟悉NodeJS,GraphQL 和 go语言。
+* 熟悉NodeJS,GraphQL,python 和 go语言。
+* 熟悉docker。
 
 ---
 ## 工作经历
@@ -44,7 +45,7 @@
 
 负责 Apple HomeKit 插件开发(nodejs 实现)  
 云服务的TCP并发测试(go 语言)  
-开放平台前端开发  
+智能设备运营平台前端开发(react 实现)
 
 
 ## 客米网络 （ 2015.05 — 2016.11 ）
@@ -84,6 +85,15 @@
 
 ### [hommily-editor](https://github.com/suyulin/Hommily-Editor)
 react 富文本编辑器，公司项目。
+
+### [智能设备运营管理平台](https://stomp.orvibo.com/)
+项目地址: https://stomp.orvibo.com/
+
+公司内部设备升级管理平台。
+使用react,antd,redux开发。
+本人完成所有前端工作。
+
+
 
 #### [哈觅](https://www.hommily.com.cn/)
 项目网站：https://www.hommily.com.cn/
