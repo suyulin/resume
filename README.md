@@ -24,7 +24,7 @@
 
 ## 自我简介
 
-5 年 Web 前端开发经验，熟练掌握 Web 前后端技术，能独立开发前端完成一个 Web Application.
+4 年 Web 前端开发经验，熟练掌握 Web 前后端技术，能独立开发前端完成一个 Web Application.  
 拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作.
 对新技术敏感,求知欲强.
 
@@ -44,12 +44,12 @@
 
 ### GreenOffice
 
-智能设备运营平台(react redux antd echart)
-绿色办公 GreenOffice (vue echart)
-智慧公寓 Apartment (react antd mobx)
-天猫精灵 内嵌 webAPP (vue H5)
-彩之云 内嵌 webAPP (react H5)
-云服务的 TCP 并发测试(go 语言)
+智能设备运营平台(react redux antd echart)  
+绿色办公 GreenOffice (vue echart)  
+智慧公寓 Apartment (react antd mobx)  
+天猫精灵 内嵌 webAPP (vue H5)  
+彩之云 内嵌 webAPP (react H5)  
+云服务的 TCP 并发测试(go 语言)  
 监控系统 编写 Jenkins 插件
 
 ## 客米网络 （ 2015.05 — 2016.11 ）
