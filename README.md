@@ -24,17 +24,27 @@
 
 ## 自我简介
 
-4 年 Web 前端开发经验，熟练掌握 Web 前后端技术，能独立开发前端完成一个 Web Application.  
-拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作.
-对新技术敏感,求知欲强.
+5 年 Web 前端开发经验，熟练掌握 Web 前后端技术，能独立开发前端完成一个 Web Application.  
+拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工，对新技术敏感,求知欲强.
 
 ## 技术能力
 
-* 专注前端开发，可以用 JavaScript、CSS、HTML 搭建一个 Web 应用.
-* 熟练使用 react 开发 WebApp 程序，精通 react 相关工具以及框架和类库的使用(react|redux|react-router|webpack).
-* 对 react 和 Redux 有深入了解.
-* 熟悉 NodeJS,GraphQL,python 和 go 语言.
-* 熟悉 docker.
+* 专注前端开发，可以用 JavaScript、CSS、HTML 搭建一个 Web 应用。
+
+* 熟练使用 react 开发 WebApp 程序，精通 react 相关工具以及框架和类库的使用(react|redux|react-router|webpack)。
+
+* 对 react 和 Redux 有深入了解。
+
+* 熟悉 vue 及相关开发工具。
+
+* 熟悉 git 和 jenkins 代码发布部署流程。
+
+* 熟练使用go语言开发web应用。
+
+* 熟悉 docker。
+
+* mac 用户
+
 
 ---
 
@@ -42,15 +52,33 @@
 
 ## 深圳市欧瑞博 （ 2016.11 — 至今 ）
 
-### GreenOffice
+#### 主要项目
+
+智家365H5 (nuxt vue ssr koa2 mysql )
 
 智能设备运营平台(react redux antd echart)  
+
 绿色办公 GreenOffice (vue echart)  
+
 智慧公寓 Apartment (react antd mobx)  
+
+智慧公寓管理后台 Apartment (antd-pro)  
+
 天猫精灵 内嵌 webAPP (vue H5)  
+
 彩之云 内嵌 webAPP (react H5)  
+
+移动设备接入H5(vue H5 go mysql)
+
+EP停车(go mq gin)
+
+接入向往智能(go mq mqsql)
+
 云服务的 TCP 并发测试(go 语言)  
+
 监控系统 编写 Jenkins 插件
+
+使用docker 搭建开源项目 [app-host](https://github.com/pluosi/app-host), [gitlab](https://about.gitlab.com),[harbor](https://github.com/goharbor/harbor),[jenkins](https://github.com/jenkinsci/jenkins),[yapi](https://github.com/YMFE/yapi)
 
 ## 客米网络 （ 2015.05 — 2016.11 ）
 
@@ -82,6 +110,14 @@
 ---
 
 ## 作品
+
+[GreenOffice](https://greenoffice.orvibo.com/home)
+
+![image-20180915211458036](/var/folders/5y/v9tw0c0528g_fm1_rqwkmhtm0000gn/T/abnerworks.Typora/image-20180915211458036.png)
+
+[智慧公寓](https://apartment.orvibo.com/entry/login)
+
+![image-20180915211551321](/var/folders/5y/v9tw0c0528g_fm1_rqwkmhtm0000gn/T/abnerworks.Typora/image-20180915211551321.png)
 
 ### [webpack-react-config](https://github.com/suyulin/webpack-react-config)
 
