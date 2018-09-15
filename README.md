@@ -62,7 +62,7 @@
 
 智慧公寓 Apartment (react antd mobx)  
 
-智慧公寓管理后台 Apartment (antd-pro)  
+智慧公寓管理后台 Apartment-admin (antd-pro)  
 
 天猫精灵 内嵌 webAPP (vue H5)  
 
