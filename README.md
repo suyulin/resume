@@ -45,7 +45,6 @@
 
 * mac 用户
 
-
 ---
 
 ## 工作经历
@@ -80,7 +79,15 @@ EP停车(go mq gin)
 
 使用docker 搭建开源项目 [app-host](https://github.com/pluosi/app-host), [gitlab](https://about.gitlab.com),[harbor](https://github.com/goharbor/harbor),[jenkins](https://github.com/jenkinsci/jenkins),[yapi](https://github.com/YMFE/yapi)
 
-## 客米网络 （ 2015.05 — 2016.11 ）
+ 
+
+## 平安科技 （ 2016.08 — 2016.11 ）
+
+####  ERP项目 
+
+负责公司内部REP系统的React重构工作
+
+## 客米网络 （ 2015.05 — 2016.8 ）
 
 ### hommily.com
 
