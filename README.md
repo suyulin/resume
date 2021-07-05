@@ -12,9 +12,9 @@
 
 **籍贯**： 内蒙古
 
-**学校专业**： 内蒙古工业大学自动化
+**学校专业**： 内蒙古工业大学自动化 
 
-**Phone**：18647382389
+**Phone**：16625182389
 
 **Email**：suyulingxm@163.com
 
@@ -24,26 +24,20 @@
 
 ## 自我简介
 
-5 年 Web 前端开发经验，熟练掌握 Web 前后端技术，能独立开发前端完成一个 Web Application.  
+7 年 Web 前端开发经验，熟练掌握 Web 前后端技术，能独立开发前端完成一个 Web Application.  
 拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工，对新技术敏感,求知欲强.
 
 ## 技术能力
 
 * 专注前端开发，可以用 JavaScript、CSS、HTML 搭建一个 Web 应用。
-
-* 熟练使用 react 开发 WebApp 程序，精通 react 相关工具以及框架和类库的使用(react|redux|react-router|webpack)。
-
-* 对 react 和 Redux 有深入了解。
-
+* 熟练使用 Flutter 开发应用，了解flutter 底层原理。
+* 熟练使用 react 开发 webApp 程序，精通 react 相关工具以及框架和类库的使用(react|redux|react-router|webpack)。
+* 对 react 和 redux 有深入了解。
 * 熟悉 vue 及相关开发工具。
-
 * 熟悉 git 和 jenkins 代码发布部署流程。
-
 * 熟练使用go语言开发web应用。
-
 * 熟悉 docker。
-
-* mac 用户
+* mac，vim 用户
 
 ---
 
@@ -51,9 +45,23 @@
 
 ## 深圳市欧瑞博 （ 2016.11 — 至今 ）
 
+#### 工作职责
+
+前端开发Leader
+
+负责公司前端招聘，新兴技术调研和落地。
+
+目前负责MixPad 系列从安卓架构到Linux Arm64 架构迁移和重构工作。
+
 #### 主要项目
 
-智家365H5 (nuxt vue ssr koa2 mysql )
+MixPad X ,MixPad 精灵 (flutter,tcp,flutter_localizations,mobx) linux arm64
+
+美的设备接入 (weex)
+
+固件升级离线客户端 (electron react express tcp)
+
+智家365H5 (nuxt vue ssr koa2 mysql)
 
 智能设备运营平台(react redux antd echart)  
 
@@ -118,17 +126,13 @@ EP停车(go mq gin)
 
 ## 作品
 
-[GreenOffice](https://greenoffice.orvibo.com/home)
+### [MixPad 精灵](https://detail.tmall.com/item.htm?spm=a230r.1.14.37.5adf3c89lQWJaj&id=645446160075&ns=1&abbucket=1)
 
-![image-20180915211458036](https://ws1.sinaimg.cn/large/006tNbRwgy1fvajyotilbj313e14ijvr.jpg)
+底层基于Linux arm64 , GUI使用Flutter开发的智能家居面板。 
 
-[智慧公寓](https://apartment.orvibo.com/entry/login)
+### [MixPad X](https://www.orvibo.com/cn/product/mixpad_x.html)
 
-![image-20180915211551321](https://ws2.sinaimg.cn/large/006tNbRwgy1fvajytkezxj31k00s277i.jpg)
-
-### [webpack-react-config](https://github.com/suyulin/webpack-react-config)
-
-个关于 webpack 打包 react 的配置文件.使用现在有的 webpack 插件和第三方的 lib 实现快速打包.
+底层基于Android arm64 , GUI使用Flutter开发的智能家居终端。 
 
 ### [hommily-editor](https://github.com/suyulin/Hommily-Editor)
 
